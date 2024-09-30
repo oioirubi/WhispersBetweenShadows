@@ -1,0 +1,12 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Aa]ssets/**/*.meta
+[Aa]ssets/**/*.mat
+[Aa]ssets/**/*.meta
+[Aa]ssets/**/*.mat
+[Aa]ssets/**/*.mat.meta
